@@ -1,0 +1,77 @@
+.displayInlineBlock{
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.divImgTitle{
+    text-align: left;
+}
+
+.divTitle{
+    width: 90%;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+  background-color:red;
+  font-family: Arial;
+}
+
+.footer h3{
+	color: white;
+	text-align: left;
+}
+
+.header{
+	background-color:red;
+	font-family: Arial;
+}
+
+.header h1{
+    color: white;
+    text-align: center;
+}
+
+.imgButton{
+    margin: auto;
+    width: 1rem;
+}
+
+.inputItem{
+	width: 50%;
+}
+
+.main{
+	width: 60rem;
+    margin: auto;
+	font-family: Calibri;
+	margin-top: 6rem;
+}
+
+.main h2{
+	 text-align: center;
+}
+
+.main input{
+	line-height: 1.5;
+}
+
+.main label{
+	font-size: 1.3rem;
+}
+
+.mainItem{
+	  margin-bottom: 1.2rem;
+}
+
+.nameItem{
+	width: 48%;
+    text-align: right;
+    padding-right: 0.7rem;
+}
+
